@@ -5,4 +5,4 @@ sandboxJ
 
 Information
 ---------
-자바 테스트 프로젝트
+자바 테스트 프로젝트 2
